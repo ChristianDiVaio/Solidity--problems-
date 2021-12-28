@@ -20,4 +20,4 @@ SyntaxError: Unexpected token 'export'
 Truffle v5.4.26 (core: 5.4.26)
 Node v14.16.0
 
-Hi Team, I am newbie here and trying to compile a test proeject. I have been facing same error since past couple of hrs and I tried to change Node version twice but still results is same. Please help, thanks for your support in advance. Cheers    
+Hi Team, I am newbie here and trying to compile a test project. I have been facing same error since past couple of hrs and I tried to change Node version twice but still results is same. Please help, thanks for your support in advance. Cheers    
